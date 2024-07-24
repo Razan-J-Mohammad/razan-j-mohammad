@@ -1,6 +1,6 @@
 Hi There! 👋
 
-- **Frontend Engineer 🖥️**
+- **Full-stack Developer 🖥️**
 - **Graduated from An-Najah National University - computer science**
 - **Experienced in react, flask python, javascript,css,html,bootstrap**
 
