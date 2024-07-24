@@ -7,7 +7,13 @@ Hi There! 👋
 ---
 
 
-
+## Skills
+javascript
+react
+flask python
+css
+html
+bootstrap
 
 ## Contact
 
