@@ -4,18 +4,8 @@ Hi There! 👋
 - **Graduated from An-Najah National University - computer science**
 - **Experienced in react, flask python, javascript,css,html,bootstrap**
 
----
 
 
-## Skills
-javascript
-react
-flask python
-css
-html
-bootstrap
-
-## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/razan-j-mohammad/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohammad.razanj@gmail.com)
